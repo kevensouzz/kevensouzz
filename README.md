@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <h1> Olá, mundo! Eu sou o Keven </h1>
+  <h1> Hello, world! I'm Keven </h1>
 
   <a href="https://github.com/kevensouzz">
 
