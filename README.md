@@ -1,8 +1,8 @@
 ### 
 
-<h1 style="text-align: center;"> Olá, mundo! Eu sou o Keven </h1>
-
 <div align="center">
+  
+  <h1> Olá, mundo! Eu sou o Keven </h1>
 
   <a href="https://github.com/kevensouzz">
 
