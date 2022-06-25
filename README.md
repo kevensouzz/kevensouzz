@@ -1,12 +1,4 @@
-### Hi there 👋
-
-
-
-
-
-- 🔭 Student
-- 🌱 I’m currently learning CSS/HTML/JAVASCRIPT
-- 🇧🇷
+### Olá, mundo! Eu sou o Keven
 
 
 <div align="center">
