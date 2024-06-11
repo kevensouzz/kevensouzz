@@ -1,6 +1,6 @@
   <p align="center">
     <a href="https://github.com/kevensouzz/">
-      <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevensouzz&langs_count=20&layout=compact&theme=gotham&hide_border=true&hide_title=true"
+      <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevensouzz&langs_count=20&layout=donut&theme=gotham&hide_border=true&hide_title=true"
       alt="kevensouzz :: overall Top Langs " />
     </a>
   </p>
